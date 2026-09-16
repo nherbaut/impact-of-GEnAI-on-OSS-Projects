@@ -32,9 +32,9 @@ source:
   discovered_at: '2026-09-14T19:35:19.006866Z'
 workflow:
   state:
-    id: IDENTIFICATION/DATABASE_IDENTIFIED
-    label: Database identified
-    prisma_bucket: DATABASE_IDENTIFIED
+    id: SCREENING/DATABASE_EXCLUDED
+    label: Database excluded at screening
+    prisma_bucket: DATABASE_SCREENING_EXCLUDED
   tags: [
     ]
   eligibility:
