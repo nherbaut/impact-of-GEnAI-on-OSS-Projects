@@ -34,16 +34,27 @@ source:
   discovered_at: '2026-07-03T06:34:18.005930Z'
 workflow:
   state:
-    id: ELIGIBILITY/DB_ASSESSINGELIGIBILITY
-    label: DB AssessingEligibility
-    prisma_bucket: DATABASE_ASSESSED_FOR_ELIGIBILITY
+    id: INCLUDED/DATABASE_REVIEWED
+    label: Database Reviewed
+    prisma_bucket: DATABASE_INCLUDED
   tags:
   - arxiv
   eligibility:
     exclusion: null
     inclusion:
-      criteria: [
-        ]
+      criteria:
+      - id: ADDRESSES_TARGET_TOPIC
+        label: Addresses the target topic
+      - id: DIRECTLY_EVALUATES_TARGET
+        label: Directly evaluates the target phenomenon
+      - id: REPORTS_PRIMARY_DATA
+        label: Reports primary data
+      - id: CONTAINS_EMPIRICAL_EVALUATION
+        label: Contains empirical evaluation
+      - id: ACCEPTABLE_STUDY_DESIGN
+        label: Acceptable study design
+      - id: SUFFICIENT_METHOD_DETAIL
+        label: Sufficient method detail
 files:
   pdf:
     available: true
