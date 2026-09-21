@@ -32,9 +32,9 @@ source:
   discovered_at: '2026-08-20T14:03:57.231587Z'
 workflow:
   state:
-    id: RETRIEVAL/DATABASE_SOUGHT_FOR_RETRIEVAL
-    label: Database sought for retrieval
-    prisma_bucket: DATABASE_SOUGHT_FOR_RETRIEVAL
+    id: ELIGIBILITY/DB_ASSESSINGELIGIBILITY
+    label: DB AssessingEligibility
+    prisma_bucket: DATABASE_ASSESSED_FOR_ELIGIBILITY
   tags: [
     ]
   eligibility:
