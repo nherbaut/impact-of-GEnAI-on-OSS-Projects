@@ -43,8 +43,8 @@ workflow:
         ]
 files:
   pdf:
-    available: false
-    name: null
-    original_name: null
+    available: true
+    name: paper-6599--pdf-novice-developers-produce-larger-review-overhead-for-project-maintainers-while-vibe-coding.pdf
+    original_name: 2602.23905v1.pdf
 ---
 
