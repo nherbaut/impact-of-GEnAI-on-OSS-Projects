@@ -44,8 +44,8 @@ workflow:
         ]
 files:
   pdf:
-    available: false
-    name: null
-    original_name: null
+    available: true
+    name: paper-10848--to-ban-or-not-to-ban-how-open-source-projects-govern-genai-contributions.pdf
+    original_name: 2603.26487.pdf
 ---
 
