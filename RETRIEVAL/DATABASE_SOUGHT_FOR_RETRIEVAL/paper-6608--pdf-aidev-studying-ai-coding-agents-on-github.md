@@ -41,8 +41,8 @@ workflow:
         ]
 files:
   pdf:
-    available: false
-    name: null
-    original_name: null
+    available: true
+    name: paper-6608--pdf-aidev-studying-ai-coding-agents-on-github.pdf
+    original_name: 2602.09185v1.pdf
 ---
 
