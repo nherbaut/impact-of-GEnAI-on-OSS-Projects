@@ -34,9 +34,9 @@ source:
   discovered_at: '2026-06-30T13:29:23.865282Z'
 workflow:
   state:
-    id: RETRIEVAL/DATABASE_SOUGHT_FOR_RETRIEVAL
-    label: Database sought for retrieval
-    prisma_bucket: DATABASE_SOUGHT_FOR_RETRIEVAL
+    id: ELIGIBILITY/DB_ASSESSINGELIGIBILITY
+    label: DB AssessingEligibility
+    prisma_bucket: DATABASE_ASSESSED_FOR_ELIGIBILITY
   tags:
   - arxiv
   eligibility:
