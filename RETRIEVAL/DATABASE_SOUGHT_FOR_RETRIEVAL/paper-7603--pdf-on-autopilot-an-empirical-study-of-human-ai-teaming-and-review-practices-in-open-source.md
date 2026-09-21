@@ -42,6 +42,6 @@ files:
   pdf:
     available: true
     name: paper-7603--pdf-on-autopilot-an-empirical-study-of-human-ai-teaming-and-review-practices-in-open-source.pdf
-    original_name: 3793302.3793573.pdf
+    original_name: 3793302.3793573-2.pdf
 ---
 
