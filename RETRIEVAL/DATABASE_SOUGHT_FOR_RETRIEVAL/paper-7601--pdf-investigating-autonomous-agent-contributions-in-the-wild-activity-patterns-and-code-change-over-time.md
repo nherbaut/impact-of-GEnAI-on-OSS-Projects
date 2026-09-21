@@ -43,8 +43,8 @@ workflow:
         ]
 files:
   pdf:
-    available: false
-    name: null
-    original_name: null
+    available: true
+    name: paper-7601--pdf-investigating-autonomous-agent-contributions-in-the-wild-activity-patterns-and-code-change-over-time.pdf
+    original_name: 3793302.3793354.pdf
 ---
 
