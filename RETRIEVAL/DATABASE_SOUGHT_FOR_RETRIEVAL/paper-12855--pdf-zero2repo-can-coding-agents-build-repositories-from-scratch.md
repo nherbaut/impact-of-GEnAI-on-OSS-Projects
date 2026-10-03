@@ -47,8 +47,8 @@ workflow:
         ]
 files:
   pdf:
-    available: false
-    name: null
-    original_name: null
+    available: true
+    name: paper-12855--pdf-zero2repo-can-coding-agents-build-repositories-from-scratch.pdf
+    original_name: 2609.38269v2.pdf
 ---
 
