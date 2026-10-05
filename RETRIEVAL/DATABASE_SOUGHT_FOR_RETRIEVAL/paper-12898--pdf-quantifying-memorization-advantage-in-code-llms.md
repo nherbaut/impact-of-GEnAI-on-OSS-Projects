@@ -30,9 +30,9 @@ source:
   discovered_at: '2026-10-04T12:14:22.898402Z'
 workflow:
   state:
-    id: IDENTIFICATION/DATABASE_IDENTIFIED
-    label: Database identified
-    prisma_bucket: DATABASE_IDENTIFIED
+    id: RETRIEVAL/DATABASE_SOUGHT_FOR_RETRIEVAL
+    label: Database sought for retrieval
+    prisma_bucket: DATABASE_SOUGHT_FOR_RETRIEVAL
   tags: [
     ]
   eligibility:
