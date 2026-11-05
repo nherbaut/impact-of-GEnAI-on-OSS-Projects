@@ -34,9 +34,9 @@ source:
   discovered_at: '2026-11-02T22:19:09.939593Z'
 workflow:
   state:
-    id: IDENTIFICATION/OTHER_IDENTIFIED
-    label: Other identified
-    prisma_bucket: OTHER_IDENTIFIED
+    id: SCREENING/OTHER_SCREENED
+    label: Other screened
+    prisma_bucket: OTHER_SCREENED
   tags:
   - gray-lit
   eligibility:
