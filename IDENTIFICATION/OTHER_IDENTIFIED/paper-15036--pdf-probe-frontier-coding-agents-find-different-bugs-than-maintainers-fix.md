@@ -30,9 +30,9 @@ source:
   discovered_at: '2026-10-28T10:23:44.202163Z'
 workflow:
   state:
-    id: SCREENING/OTHER_SCREENED
-    label: Other screened
-    prisma_bucket: OTHER_SCREENED
+    id: IDENTIFICATION/OTHER_IDENTIFIED
+    label: Other identified
+    prisma_bucket: OTHER_IDENTIFIED
   tags:
   - gray-lit
   - arxiv

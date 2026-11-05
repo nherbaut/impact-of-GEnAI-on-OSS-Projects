@@ -52,9 +52,9 @@ source:
   discovered_at: '2026-11-02T22:19:09.939593Z'
 workflow:
   state:
-    id: SCREENING/OTHER_EXCLUDED
-    label: Other excluded at screening
-    prisma_bucket: OTHER_SCREENING_EXCLUDED
+    id: IDENTIFICATION/OTHER_IDENTIFIED
+    label: Other identified
+    prisma_bucket: OTHER_IDENTIFIED
   tags:
   - gray-lit
   eligibility:
